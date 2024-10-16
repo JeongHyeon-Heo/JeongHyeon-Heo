@@ -26,9 +26,10 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/redis-007ACC.svg?style=for-the-badge&logo=redis&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/amazon ec2-FF4154?style=for-the-badge&logo=amazon%20ec2&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/docker-3578E5?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/jpa-3578E5?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
+
 </div>
 
 <br>
