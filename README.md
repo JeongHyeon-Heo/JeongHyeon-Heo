@@ -26,8 +26,8 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/amazon ec2-FF4154?style=for-the-badge&logo=amazon%20ec2&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/docker-3578E5?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/aws-FF4154?style=for-the-badge&logo=amazon%20ec2&logoColor=white" />&nbsp
+<!--   <img src="https://img.shields.io/badge/docker-3578E5?style=for-the-badge&logo=docker&logoColor=white" />&nbsp -->
   <img src="https://img.shields.io/badge/jpa-3578E5?style=for-the-badge&logo=jpa&logoColor=white" />&nbsp
 
 </div>
@@ -44,9 +44,9 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@auspiciousjh">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
+<!--   <a href="https://velog.io/@auspiciousjh"> -->
+<!--     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp -->
+<!--   </a> -->
   <a href="mailto:auspiciousjh@hansung.ac.kr">
     <img
       src="https://img.shields.io/badge/auspiciousjh@hansung.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
