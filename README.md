@@ -1,6 +1,6 @@
 # 🙇‍♂️ Heo Jeong Hyeon 
 
-#### 정진, 개발중
+
 
 <!--
 **JeongHyeon-Heo/JeongHyeon-Heo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
